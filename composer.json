@@ -1,0 +1,11 @@
+{
+  "name": "james05/php-librarydemo",
+  "type": "library",
+  "description": "This is my demo package description",
+  "keywords": ["demo"],
+  "homepage": "https://jamesbrocklebank.ca",
+  "license": "MIT",
+  "authors": [
+    { "name": "James Brocklebank" }
+  ],
+}
